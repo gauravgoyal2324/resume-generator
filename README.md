@@ -8,7 +8,7 @@
 
 ### Running locally
 
-To test locally, run the following in your terminal:
+To test locally, run the following in your terminal:-
 
 1. Clone repo locally
 1. `bundle install`
@@ -21,7 +21,8 @@ First you'll want to fork the repo to your own account. Then clone it locally an
 
 #### Options/configuration
 
-Most of the basic customization will take place in the `/_data/*.yml` files.
+Most of the basic customization will take place in the `/_data/*.yml` files. And you can make modifications in it accoring to you <>br>
+Try your best and made this website the best version of itself.
 
 ### Publishing to GitHub Pages for free
 
