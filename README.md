@@ -21,7 +21,7 @@ First you'll want to fork the repo to your own account. Then clone it locally an
 
 #### Options/configuration
 
-Most of the basic customization will take place in the `/_data/*.yml` files. And you can make modifications in it accoring to you <>br>
+Most of the basic customization will take place in the `/_data/*.yml` files. And you can make modifications in it accoring to you <br>
 Try your best and made this website the best version of itself.
 
 ### Publishing to GitHub Pages for free
